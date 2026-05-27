@@ -1,9 +1,11 @@
 ---
+title: Distribution options
 keywords:
   - Creative Cloud
   - API Documentation
   - UXP
   - Plugin
+description: Once you have a packaged plugin, you're ready to distribute. You can make your plugin available to users through the Creative Cloud Plugin Marketplace
 ---
 
 
@@ -11,7 +13,7 @@ keywords:
 
 Once you have a packaged plugin, you're ready to distribute. You can make your plugin available to users through the Creative Cloud Plugin Marketplace or via direct distribution.
 
-<SummaryBlock slots="heading, text, buttons" background="rgb(141, 52, 78)" />
+<Announcement slots="heading, text, buttons" backgroundColor="background-color-gray" />
 
 ## Distribute on Creative Cloud Plugin Marketplace
 
@@ -26,7 +28,7 @@ Direct distribution lets you choose how to provide users with access to your plu
 
 If you distribute a .XDX file, installation is as simple as one double-click.
 
-<InlineAlert variant="help" slots="header, text1, text2, text3" />
+<InlineAlert variant="help" slots="heading, text1, text2, text3" />
 
 Info
 

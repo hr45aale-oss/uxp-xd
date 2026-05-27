@@ -1,9 +1,11 @@
 ---
+title: JavaScript and XD Plugin APIs
 keywords:
   - Creative Cloud
   - API Documentation
   - UXP
   - Plugin
+description: XD plugins are written in JavaScript, the language of the web which is also frequently used for servers, OS scripting, and more.
 ---
 
 # JavaScript and XD Plugin APIs
@@ -17,6 +19,6 @@ In this section, we'll talk about JavaScript topics that are specific to XD plug
 
 Topics include:
 
-- [JavaScript version and feature support](javascript-support/)
-- [Sync and Async](sync-async/)
-- [The API environment](environment/)
+- [JavaScript version and feature support](javascript-support.md)
+- [Sync and Async](sync-async.md)
+- [The API environment](environment.md)

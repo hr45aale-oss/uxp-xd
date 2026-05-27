@@ -1,25 +1,27 @@
 ---
+title: Network
 keywords:
   - Creative Cloud
   - API Documentation
   - UXP
   - Plugin
+description: "The Network I/O subsystem mimics the standards found on the web. The following API surfaces are available:"
 ---
 
 # Network
 
-# Network I/O
+## Network I/O
 
 The Network I/O subsystem mimics the standards found on the web. The following API surfaces are available:
 
 - Web Sockets
-  - [XD Documentation](/develop/reference/uxp/class/WebSocket/)
+  - [XD Documentation](/develop/reference/uxp/class/web-socket.md)
   - [MDN documentation](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
 - XMLHttpRequest
-  - [XD Documentation](/develop/reference/uxp/class/XMLHttpRequest/)
+  - [XD Documentation](/develop/reference/uxp/class/xml-http-request.md)
   - [MDN documentation](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest)
 - Fetch
-  - [XD Documentation](/develop/reference/uxp/function/fetch/)
+  - [XD Documentation](/develop/reference/uxp/function/fetch.md)
   - [MDN documentation](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
 
 ## Web Socket Support
@@ -45,4 +47,4 @@ Unsupported portions of the surface:
 
 ## Fetch Support
 
-Fetch is polyfilled on top of the XHR implementation using https://github.com/github/fetch.
+Fetch is polyfilled on top of the XHR implementation using [https://github.com/github/fetch](https://github.com/github/fetch).

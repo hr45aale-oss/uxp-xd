@@ -1,0 +1,3872 @@
+{
+  "total": 499,
+  "offset": 0,
+  "limit": 499,
+  "data": [
+    {
+      "page": "/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/2728504?v=4",
+        "https://avatars.githubusercontent.com/u/13773892?v=4",
+        "https://avatars.githubusercontent.com/u/25147704?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/6012307?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4",
+        "https://avatars.githubusercontent.com/u/1370591?v=4",
+        "https://avatars.githubusercontent.com/u/57922?v=4"
+      ],
+      "lastUpdated": "5/16/2026"
+    },
+    {
+      "page": "/community/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/6012307?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/config",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/16/2026"
+    },
+    {
+      "page": "/design/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/2728504?v=4",
+        "https://avatars.githubusercontent.com/u/13773892?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/design/user-interface/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/design/ux-patterns/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/design/ux-patterns/branding",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/design/ux-patterns/messaging",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/design/ux-patterns/modal-ux",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/design/ux-patterns/navigation",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/design/ux-patterns/onboarding",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/design/ux-patterns/panel-ux",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/2728504?v=4",
+        "https://avatars.githubusercontent.com/u/13773892?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/1370591?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/changelog/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/70600982?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4",
+        "https://avatars.githubusercontent.com/u/1370591?v=4"
+      ],
+      "lastUpdated": "5/16/2026"
+    },
+    {
+      "page": "/develop/known-issues/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/1370591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/plugin-development/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/1370591?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/plugin-development/devbestpractices/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/plugin-development/devbestpractices/1-performance",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/plugin-development/devbestpractices/2-scenegraph",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/plugin-development/devbestpractices/3-network-io",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/plugin-development/devbestpractices/4-file-io",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/plugin-development/devbestpractices/5-ui",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/1370591?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/plugin-development/devbestpractices/intro",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/plugin-development/devtool/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/plugin-development/devtool/installation",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/61408095?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/plugin-development/devtool/plugin-management",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/25147704?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/plugin-development/devtool/plugin-workflows",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/plugin-development/devtool/working-with-react",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/plugin-development/javascript-and-xd/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/plugin-development/javascript-and-xd/environment",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/1370591?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/plugin-development/javascript-and-xd/javascript-support",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/plugin-development/javascript-and-xd/sync-async",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/1370591?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/plugin-development/plugin-structure/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/70600982?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/plugin-development/plugin-structure/folder-structure",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/70600982?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/16/2026"
+    },
+    {
+      "page": "/develop/plugin-development/plugin-structure/handlers",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/1370591?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/plugin-development/plugin-structure/manifest",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/25147704?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/22622963?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4",
+        "https://avatars.githubusercontent.com/u/1370591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/plugin-development/plugin-structure/manifest-v3",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/25147704?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/plugin-development/plugin-structure/menu-structure",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/22622963?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/plugin-development/xd-concepts/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/plugin-development/xd-concepts/apis",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/1370591?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/plugin-development/xd-concepts/automatic-cleanups",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/plugin-development/xd-concepts/coordinate-spaces-and-units",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/plugin-development/xd-concepts/edit-context",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/1370591?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/plugin-development/xd-concepts/lifecycle",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/70600982?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/1370591?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/plugin-development/xd-concepts/properties-with-object-values",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/plugin-development/xd-concepts/scenegraph",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/1370591?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/1370591?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/angular-gradient",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/application",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/70600982?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/1370591?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/artboard",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/Artboard",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/70600982?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/assets",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/70600982?v=4",
+        "https://avatars.githubusercontent.com/u/1370591?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/16/2026"
+    },
+    {
+      "page": "/develop/reference/blur",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/Blur",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/70600982?v=4",
+        "https://avatars.githubusercontent.com/u/1370591?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/boolean-group",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/clipboard",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/70600982?v=4",
+        "https://avatars.githubusercontent.com/u/1370591?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/cloud",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/70600982?v=4",
+        "https://avatars.githubusercontent.com/u/1370591?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/color",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/Color",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/70600982?v=4",
+        "https://avatars.githubusercontent.com/u/1370591?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/commands",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/70600982?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/1370591?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/core-index",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/ellipse",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/Ellipse",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/70600982?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/graphic-node",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/group",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/Group",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/70600982?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/how-to-read",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/image-fill",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/inner-shadow",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/interactions",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/70600982?v=4",
+        "https://avatars.githubusercontent.com/u/1370591?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/line",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/Line",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/70600982?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/linear-gradient",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/linked-graphic",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/lottie",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/Lottie",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/70600982?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/matrix",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/Matrix",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/70600982?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/1370591?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/matrix3-d",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/path",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/Path",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/70600982?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/per-plugin-storage",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/polygon",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/Polygon",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/70600982?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/radial-gradient",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/rectangle",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/Rectangle",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/70600982?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/reference-index",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/1370591?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/repeat-grid",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/root-node",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/scene-node",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/scene-node-list",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/scenegraph",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/70600982?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/1370591?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/scrollable-group",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/selection",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/70600982?v=4",
+        "https://avatars.githubusercontent.com/u/1370591?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/shadow",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/Shadow",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/70600982?v=4",
+        "https://avatars.githubusercontent.com/u/1370591?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/symbol-instance",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/text",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/Text",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/70600982?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/ui/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/ui/dialogs/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/ui/dialogs/dismissal",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/1370591?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/ui/dialogs/showing",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/1370591?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/ui/panels/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/1370591?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/ui/panels/hide",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/1370591?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/ui/panels/show",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/1370591?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/ui/panels/update",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/uxp/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/1370591?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/uxp/class/attr",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/uxp/class/Attr",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/uxp/class/base-ui-event",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/uxp/class/blob",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/uxp/class/Blob",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/uxp/class/character-data",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/uxp/class/class-list",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/uxp/class/clipboard",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/uxp/class/Clipboard",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/uxp/class/close-event",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/uxp/class/comment",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/uxp/class/Comment",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/uxp/class/console",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/uxp/class/Console",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/uxp/class/css-grouping-rule",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/uxp/class/css-media-list",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/uxp/class/css-media-rule",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/uxp/class/css-rule",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/uxp/class/css-rule-list",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/uxp/class/css-style-declaration",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/uxp/class/css-style-rule",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/uxp/class/css-style-sheet",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/uxp/class/document",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/uxp/class/Document",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/uxp/class/document-fragment",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/uxp/class/dom-exception",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/uxp/class/dom-token-list",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/uxp/class/drag-event",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/uxp/class/element",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/uxp/class/Element",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/uxp/class/error-event",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/uxp/class/event",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/uxp/class/Event",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/uxp/class/event-target",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/uxp/class/focus-event",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/uxp/class/form-data",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/uxp/class/gesture-event",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/uxp/class/html-anchor-element",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/uxp/class/html-body-element",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/uxp/class/html-button-element",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/uxp/class/html-collection",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/uxp/class/html-dialog-element",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/uxp/class/html-element",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/uxp/class/html-form-element",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/uxp/class/html-head-element",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/uxp/class/html-html-element",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/uxp/class/html-image-element",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/uxp/class/html-input-element",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/uxp/class/html-label-element",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/uxp/class/html-link-element",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/uxp/class/html-menu-element",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/uxp/class/html-menu-item-element",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/uxp/class/html-option-element",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/uxp/class/html-progress-element",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/uxp/class/html-script-element",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/uxp/class/html-select-element",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/uxp/class/html-style-element",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/uxp/class/html-text-area-element",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/uxp/class/image",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/uxp/class/Image",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/uxp/class/keyboard-event",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/uxp/class/location",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/uxp/class/Location",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/uxp/class/message-event",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/uxp/class/named-node-map",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/uxp/class/navigator",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/uxp/class/Navigator",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/uxp/class/node",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/uxp/class/Node",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/uxp/class/node-list",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/uxp/class/os",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/uxp/class/OS",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/uxp/class/performance",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/uxp/class/Performance",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/uxp/class/pointer-event",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/uxp/class/progress-event",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/uxp/class/shell",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/uxp/class/Shell",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/uxp/class/style-sheet",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/uxp/class/style-sheet-list",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/uxp/class/text",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/uxp/class/Text",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/uxp/class/uxp-container",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/uxp/class/web-socket",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/uxp/class/wheel-event",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/uxp/class/xml-http-request",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/uxp/events-index",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/uxp/function/cancel-animation-frame",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/uxp/function/clear-interval",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/uxp/function/clear-timeout",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/uxp/function/fetch",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/uxp/function/request-animation-frame",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/uxp/function/set-interval",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/uxp/function/set-timeout",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/uxp/module/os",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/uxp/module/shell",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/uxp/module/storage",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/uxp/module/uxp",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/uxp/namespace/css",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/uxp/network-index",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/1370591?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/uxp/storage-index",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/1370591?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/uxp/ui-classes-index",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/uxp/ui-html-index",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/uxp/ui-index",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/video",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/Video",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/70600982?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/viewport",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/70600982?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4",
+        "https://avatars.githubusercontent.com/u/1370591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/reference/xd-index",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/1370591?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/tutorials/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/1370591?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/tutorials/content-index",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/1370591?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/tutorials/debugging/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/70600982?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4",
+        "https://avatars.githubusercontent.com/u/1370591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/tutorials/how-to-ask-user-for-confirmation/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/1370591?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/tutorials/how-to-create-paths/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/1370591?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/tutorials/how-to-draw-lines/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/1370591?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/tutorials/how-to-export-a-rendition/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/1370591?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/tutorials/how-to-integrate-with-o-auth/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/tutorials/how-to-make-network-requests/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/1370591?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/tutorials/how-to-read-a-file/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/1370591?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/tutorials/how-to-show-an-alert/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/1370591?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/tutorials/how-to-style-text/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/1370591?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/tutorials/how-to-work-with-scenenodelist/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/1370591?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/tutorials/io-index",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/1370591?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/tutorials/quick-start-panel/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/1370591?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/tutorials/quick-start-react/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/1370591?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/tutorials/quick-start/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/1370591?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/develop/tutorials/ui-index",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/1370591?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/distribution/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/2728504?v=4",
+        "https://avatars.githubusercontent.com/u/13773892?v=4",
+        "https://avatars.githubusercontent.com/u/25147704?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/1370591?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/distribution/distribution-options/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/25147704?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/1370591?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/16/2026"
+    },
+    {
+      "page": "/distribution/packaging-your-plugin/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/25147704?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/1370591?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/uxp/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/2728504?v=4",
+        "https://avatars.githubusercontent.com/u/13773892?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/1370591?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4"
+      ],
+      "lastUpdated": "5/16/2026"
+    },
+    {
+      "page": "/uxp/changelog3-p",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/uxp/known-issues",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/uxp/reference-css/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4",
+        "https://avatars.githubusercontent.com/u/6012307?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/uxp/reference-css/general/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/general/calc",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/general/units",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/general/variables",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/media-queries/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/uxp/reference-css/media-queries/height",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/uxp/reference-css/media-queries/prefers-color-scheme",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/uxp/reference-css/media-queries/width",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/uxp/reference-css/pseudo-classes/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/pseudo-classes/active",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/pseudo-classes/checked",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/pseudo-classes/disabled",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/pseudo-classes/empty",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/pseudo-classes/enabled",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/pseudo-classes/first-child",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/pseudo-classes/focus",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/pseudo-classes/hover",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/pseudo-classes/last-child",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/pseudo-classes/nth-child",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/pseudo-classes/nth-last-child",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/pseudo-classes/nth-last-of-type",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/pseudo-classes/nth-of-type",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/pseudo-classes/only-child",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/pseudo-classes/root",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/pseudo-elements/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/pseudo-elements/after",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/pseudo-elements/before",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/selectors/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/selectors/adjacent-sibling-combinator",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/selectors/attribute-selector",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/selectors/child-combinator",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/selectors/class-selector",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/selectors/descendant-combinator",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/selectors/general-sibling-combinator",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/selectors/identifier-selector",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/selectors/type-selector",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/selectors/universal-selector",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/styles/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/styles/align-content",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/styles/align-items",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/styles/align-self",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/styles/background",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/styles/background-attachment",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/styles/background-color",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/styles/background-image",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/styles/background-repeat",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/styles/background-size",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/styles/border-bottom",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/styles/border-bottom-color",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/styles/border-bottom-left-radius",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/styles/border-bottom-right-radius",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/styles/border-bottom-style",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/styles/border-bottom-width",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/styles/border-color",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/styles/border-left",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/styles/border-left-color",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/styles/border-left-style",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/styles/border-left-width",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/styles/border-radius",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/styles/border-right",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/styles/border-right-color",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/styles/border-right-style",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/styles/border-right-width",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/styles/border-style",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/styles/border-top",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/styles/border-top-color",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/styles/border-top-left-radius",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/styles/border-top-style",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/styles/border-top-width",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/styles/border-width",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/styles/bottom",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/styles/color",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/styles/display",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/styles/flex",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/styles/flex-basis",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/styles/flex-direction",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/styles/flex-grow",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/styles/flex-shrink",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/styles/flex-wrap",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/styles/font-family",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/styles/font-size",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/styles/font-style",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/styles/font-weight",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/styles/height",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/styles/justify-content",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/styles/left",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/styles/letter-spacing",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/styles/margin",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/styles/margin-bottom",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/styles/margin-left",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/styles/margin-right",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/styles/margin-top",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/styles/max-height",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/styles/max-width",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/styles/min-height",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/styles/min-width",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/styles/opacity",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/styles/overflow",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/styles/overflow-x",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/styles/overflow-y",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/styles/padding",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/styles/padding-bottom",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/styles/padding-left",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/styles/padding-right",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/styles/padding-top",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/styles/right",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/styles/text-align",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/styles/text-overflow",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/styles/top",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/styles/visibility",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/styles/white-space",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-css/styles/width",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-html/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4",
+        "https://avatars.githubusercontent.com/u/6012307?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/uxp/reference-html/general/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-html/general/body",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-html/general/head",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-html/general/html",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-html/general/link",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-html/general/script",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-html/general/style",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-html/general/unsupported-attributes",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-html/general/unsupported-elements",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-html/hierarchy/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-html/hierarchy/footer",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-html/hierarchy/h1",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-html/hierarchy/h2",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-html/hierarchy/h3",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-html/hierarchy/h4",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-html/hierarchy/h5",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-html/hierarchy/h6",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-html/hierarchy/hr",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-js/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4",
+        "https://avatars.githubusercontent.com/u/6012307?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/uxp/reference-js/global-members/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/uxp/reference-js/global-members/crypto/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/uxp/reference-js/global-members/crypto/crypto",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/uxp/reference-js/global-members/data-storage/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/uxp/reference-js/global-members/data-storage/local-storage",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/uxp/reference-js/global-members/data-storage/session-storage",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/uxp/reference-js/global-members/data-transfers/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/uxp/reference-js/global-members/data-transfers/blob",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/uxp/reference-js/global-members/data-transfers/clipboard",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/uxp/reference-js/global-members/data-transfers/fetch",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/uxp/reference-js/global-members/data-transfers/web-socket",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/uxp/reference-js/global-members/data-transfers/xml-http-request",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/uxp/reference-js/global-members/html-dom/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/uxp/reference-js/global-members/html-dom/attr",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/uxp/reference-js/global-members/html-dom/character-data",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/uxp/reference-js/global-members/html-dom/class-list",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/uxp/reference-js/global-members/html-dom/comment",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/uxp/reference-js/global-members/html-dom/document",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/uxp/reference-js/global-members/html-dom/document-fragment",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/uxp/reference-js/global-members/html-dom/dom-token-list",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/uxp/reference-js/global-members/html-dom/element",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/uxp/reference-js/global-members/html-dom/html-collection",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/uxp/reference-js/global-members/html-dom/named-node-map",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/uxp/reference-js/global-members/html-dom/node",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/uxp/reference-js/global-members/html-dom/node-list",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/uxp/reference-js/global-members/html-dom/text",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/uxp/reference-js/global-members/html-elements/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/uxp/reference-js/global-members/html-elements/html-anchor-element",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/uxp/reference-js/global-members/html-elements/html-body-element",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/uxp/reference-js/global-members/html-elements/html-button-element",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/uxp/reference-js/global-members/html-elements/html-dialog-element",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/uxp/reference-js/global-members/html-elements/html-element",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/uxp/reference-js/global-members/html-elements/html-head-element",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/uxp/reference-js/global-members/html-elements/html-html-element",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/uxp/reference-js/global-members/html-elements/html-image-element",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/uxp/reference-js/global-members/html-elements/html-input-element",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/uxp/reference-js/global-members/html-elements/html-label-element",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/uxp/reference-js/global-members/html-elements/html-link-element",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/uxp/reference-js/global-members/html-elements/html-menu-element",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/uxp/reference-js/global-members/html-elements/html-menu-item-element",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/uxp/reference-js/global-members/html-elements/html-option-element",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/uxp/reference-js/global-members/html-elements/html-progress-element",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/uxp/reference-js/global-members/html-elements/html-script-element",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/uxp/reference-js/global-members/html-elements/html-select-element",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/uxp/reference-js/global-members/html-elements/html-style-element",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/uxp/reference-js/global-members/html-elements/html-text-area-element",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/uxp/reference-js/global-members/html-elements/html-web-view-element",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/uxp/reference-js/global-members/html-events/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/uxp/reference-js/global-members/html-events/base-ui-event",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/uxp/reference-js/global-members/html-events/close-event",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/uxp/reference-js/global-members/html-events/drag-event",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/uxp/reference-js/global-members/html-events/error-event",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/uxp/reference-js/global-members/html-events/event",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/uxp/reference-js/global-members/html-events/event-target",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/uxp/reference-js/global-members/html-events/gesture-event",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/uxp/reference-js/global-members/html-events/keyboard-event",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/uxp/reference-js/global-members/html-events/message-event",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/uxp/reference-js/global-members/html-events/pointer-event",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/uxp/reference-js/global-members/html-events/progress-event",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/uxp/reference-js/modules/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-js/modules/file-system",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-js/modules/os/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-js/modules/os/os",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-js/modules/shell/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-js/modules/shell/shell",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-js/modules/uxp/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-js/modules/uxp/entry-points/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-js/modules/uxp/entry-points/entry-points",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-js/modules/uxp/entry-points/entry-points-error",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-js/modules/uxp/entry-points/uxp-command-info",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-js/modules/uxp/entry-points/uxp-menu-item",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-js/modules/uxp/entry-points/uxp-menu-items",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-js/modules/uxp/entry-points/uxp-panel-info",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-js/modules/uxp/entry-points/uxp-plugin-info",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-js/modules/uxp/host-information/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-js/modules/uxp/host-information/host",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-js/modules/uxp/key-value-storage/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-js/modules/uxp/key-value-storage/secure-storage",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-js/modules/uxp/persistent-file-storage/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-js/modules/uxp/persistent-file-storage/domains",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-js/modules/uxp/persistent-file-storage/entry",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-js/modules/uxp/persistent-file-storage/entry-metadata",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-js/modules/uxp/persistent-file-storage/errors",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-js/modules/uxp/persistent-file-storage/file",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-js/modules/uxp/persistent-file-storage/file-system-provider",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-js/modules/uxp/persistent-file-storage/file-types",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-js/modules/uxp/persistent-file-storage/folder",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-js/modules/uxp/persistent-file-storage/formats",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-js/modules/uxp/persistent-file-storage/local-file-system",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-js/modules/uxp/persistent-file-storage/modes",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-js/modules/uxp/persistent-file-storage/storage",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-js/modules/uxp/persistent-file-storage/types",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-js/modules/uxp/plugin-manager/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-js/modules/uxp/plugin-manager/plugin",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-js/modules/uxp/plugin-manager/plugin-manager",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-js/modules/uxp/plugin-manager/script",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-js/modules/uxp/versions/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-js/modules/uxp/versions/versions",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-spectrum/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/537688?v=4",
+        "https://avatars.githubusercontent.com/u/164498?v=4",
+        "https://avatars.githubusercontent.com/u/6012307?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/uxp/reference-spectrum/overview/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-spectrum/overview/about-spectrum-uxp",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-spectrum/overview/using-with-react",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-spectrum/typography/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-spectrum/typography/sp-body",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-spectrum/typography/sp-detail",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-spectrum/typography/sp-heading",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-spectrum/typography/sp-label",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/20/2026"
+    },
+    {
+      "page": "/uxp/reference-spectrum/user-interface/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/uxp/reference-spectrum/user-interface/sp-action-button",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/uxp/reference-spectrum/user-interface/sp-button",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/uxp/reference-spectrum/user-interface/sp-checkbox",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/uxp/reference-spectrum/user-interface/sp-divider",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/uxp/reference-spectrum/user-interface/sp-dropdown",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/uxp/reference-spectrum/user-interface/sp-icon",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/uxp/reference-spectrum/user-interface/sp-link",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/uxp/reference-spectrum/user-interface/sp-menu",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/uxp/reference-spectrum/user-interface/sp-menu-item",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/uxp/reference-spectrum/user-interface/sp-progressbar",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/uxp/reference-spectrum/user-interface/sp-radio",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/uxp/reference-spectrum/user-interface/sp-radio-group",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/uxp/reference-spectrum/user-interface/sp-slider",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/uxp/reference-spectrum/user-interface/sp-textarea",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/uxp/reference-spectrum/user-interface/sp-textfield",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/uxp/versions",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    },
+    {
+      "page": "/uxp/versions3-p",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/15/2026"
+    }
+  ],
+  ":type": "sheet"
+}

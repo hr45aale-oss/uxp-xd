@@ -1,9 +1,11 @@
 ---
+title: Modal UX
 keywords:
   - Creative Cloud
   - API Documentation
   - UXP
   - Plugin
+description: This section will have recommendations when using a Modal Dialog -  Blocking UI. If the plugin needs to run an action before the user starts a new act
 ---
 
 # Modal UX
@@ -14,17 +16,16 @@ This section will have recommendations when using a Modal Dialog -  Blocking UI.
 - Modal Dialog UI
 - Dialog Buttons and Key Commands
 
-![Example of Modal](../ux-images/Modal-UX-1-Example.png)
+![Example of Modal](../ux-images/modal-ux-1-example.png)
 
-----------
-
- <br />
+<HorizontalLine />
+ \<br/\>
 
 ## Overview
 
 MacOS example
 
-![Modal Specs](../ux-images/Modal-UX-2-Specs.png)
+![Modal Specs](../ux-images/modal-ux-2-specs.png)
 
 #### Specs
 
@@ -50,29 +51,29 @@ Include a modal dismissal button to allow the user to cancel/close the modal and
 **Plugin Icon**.  
 You can include a plugin icon to let the user know they are interacting with your plugin in the modal dialog
 
- <br />
+ \<br/\>
 
 ## Modal Dialog UI
 
 #### Modal dialog plugin UI
 
-![Modal Dialog](../ux-images/Modal-UX-3-Modal-Dialog.png)
+![Modal Dialog](../ux-images/modal-ux-3-modal-dialog.png)
 
 #### Step process three buttons
 
-![Step Process](../ux-images/Modal-UX-4-Step-Process.png)
+![Step Process](../ux-images/modal-ux-4-step-process.png)
 
 #### Step process loader
 
-![Loader](../ux-images/Modal-UX-5-Loader.png)
+![Loader](../ux-images/modal-ux-5-loader.png)
 
- <br />
+ \<br/\>
 
 ## Dialog buttons and key commands
 
 #### Buttons
 
-![Buttons](../ux-images/Modal-UX-6-Buttons.png)
+![Buttons](../ux-images/modal-ux-6-buttons.png)
 
 **Use cases**. 
 **Call to action**  
@@ -101,7 +102,7 @@ The top-level action within a button group should be a call to action, primary, 
 
 Button labels should be clear about the intention of the action. Button text should be 1 to 2 words and consider the number of characters.
 
-![Button labels](../ux-images/Modal-UX-7-Button-Labels.png)
+![Button labels](../ux-images/modal-ux-7-button-labels.png)
 
 #### Key Commands
 
@@ -111,4 +112,4 @@ Dismisses the dialog. This is equivalent to choosing “Cancel”.
 **Enter key**  
 Executes the primary button action.
 
-![Key commands](../ux-images/Modal-UX-8-Key-Commands.png)
+![Key commands](../ux-images/modal-ux-8-key-commands.png)

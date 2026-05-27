@@ -8,11 +8,9 @@ title: Documentation-Adobe XD
 description: Build UXP plugins for Adobe XD with HTML, CSS, and JavaScript. Automate workflows, build new features, and more.
 ---
 
-import Community from "./community/index.md"
+<Superhero slots="image, heading, text" background="rgb(64, 34, 138)"/>
 
-<Hero slots="image, heading, text" background="rgb(64, 34, 138)"/>
-
-![Hero image](./illustration.png)
+![Hero image](illustration.png)
 
 # UXP for Adobe XD documentation
 
@@ -22,21 +20,21 @@ UXP (**U**nified E**x**tensibility **P**latform) lets you build plugins for XD a
 
 #### Resources
 
-- [Develop: API documentation, code tutorials, and samples](/develop/)
-- [Design: UX patterns, UI elements, and design guidelines](/design/)
-- [Share: Submission checklist, packaging, and marketing](/distribution/)
+- [Develop: API documentation, code tutorials, and samples](/develop/index.md)
+- [Design: UX patterns, UI elements, and design guidelines](/design/index.md)
+- [Share: Submission checklist, packaging, and marketing](/distribution/index.md)
 
-<InlineAlert variant="warning" slots="header, text1, text2, text3" />
+<InlineAlert variant="warning" slots="heading, text1, text2, text3" />
 
 Important Changes for XD Plugin Distribution in the Marketplace
 
-We are no longer accepting <i>new</i> plugins for Adobe XD in [our Marketplace](http://exchange.adobe.com/creativecloud). 
+We are no longer accepting *new* plugins for Adobe XD in [our Marketplace](http://exchange.adobe.com/creativecloud). 
 
 Existing published plugins can continue to be managed and updated via the Developer Distribution portal. The UXP Developer Tool (UDT) will continue to support plugin development. 
 
 Visit the [FAQs](https://developer.adobe.com/xd/uxp/faq/) page for more details and refer to [this document](https://helpx.adobe.com/in/support/xd.html) for the overall plans for Adobe XD. 
 
-<br></br><br></br><br></br>
+
 
 ## Overview
 
@@ -56,19 +54,19 @@ With UXP, you can develop:
 
 ### Get started
 
-[Quick Start: Direct Action](/develop/tutorials/quick-start/)
+[Quick Start: Direct Action](/develop/tutorials/quick-start/index.md)
 
 With this Quick Start, you'll get a solid grasp of how to create your own XD plugin.
 
 <DiscoverBlock slots="link, text"/>
 
-[Quick Start: Panel](/develop/tutorials/quick-start-panel/)
+[Quick Start: Panel](/develop/tutorials/quick-start-panel/index.md)
 
 Let’s walk through creating your first Adobe XD panel plugin together.
 
 <DiscoverBlock slots="link, text"/>
 
-[Quick Start: React](/develop/tutorials/quick-start-react/)
+[Quick Start: React](/develop/tutorials/quick-start-react/index.md)
 
 UXP supports many popular JavaScript frameworks. Let's build a panel-based plugin with React.
 
@@ -76,13 +74,13 @@ UXP supports many popular JavaScript frameworks. Let's build a panel-based plugi
 
 ### Guides
 
-[Designing plugins for XD](/design/)
+[Designing plugins for XD](/design/index.md)
 
 These guidelines will help you define the best user experience for your plugin.
 
 <DiscoverBlock slots="link, text"/>
 
-[Develop](/develop/)
+[Develop](/develop/index.md)
 
 A quick overview of **what you can build** and **how to get started**.
 
@@ -98,13 +96,13 @@ The APIs come in two parts: the methods and properties unique to Adobe XD, and t
 
 <DiscoverBlock slots="link, text"/>
 
-[XD API](/develop/reference/xd-index)
+[XD API](/develop/reference/xd-index.md)
 
 The API Reference for XD calls exposed through UXP.
 
 <DiscoverBlock slots="link, text"/>
 
-[UXP API](/uxp/)
+[UXP API](/uxp/index.md)
 
 The API Reference for UXP itself. Includes UI APIs (including HTML and CSS), file and network I/O, and more.
 
@@ -114,26 +112,14 @@ You've built the world's greatest plugin. What do you do now? This section expla
 
 <DiscoverBlock slots="link, text"/>
 
-[Packaging Your Plugin](distribution/packaging-your-plugin/)
+[Packaging Your Plugin](distribution/packaging-your-plugin/index.md)
 
 Packaging your UXP plugin is a breeze. In many cases, it's just one click away.
 
 <DiscoverBlock slots="link, text"/>
 
-[Options for Distribution](distribution/distribution-options/)
+[Options for Distribution](distribution/distribution-options/index.md)
 
 Did you build a plugin just for yourself, your friends, or your employer? Or do you want to distribute through the Creative Cloud Plugin Marketplace on millions of desktops? Read this section to help you decide.
 
-<DiscoverBlock slots="link, text"/>
-
-[Submission and Review](distribution/submission-checklist/)
-
-Learn about the review process and associated timelines for Creative Cloud plugins and integrations, and follow our review submission checklist.
-
-<DiscoverBlock slots="link, text"/>
-
-[Marketing Your Plugin](distribution/marketing/)
-
-Submitting your plugin is only half the battle. Now you have to tell people about it. Read this for some ideas on how to best market your plugin.
-
-<Community />
+<Fragment src="./community/index.md" />

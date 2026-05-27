@@ -1,4 +1,11 @@
+---
+title: JavaScript Reference
+description: UXP provides a set of common APIs that are available in UXP-powered host applications, including Adobe Photoshop 2021. These are included in the globa
+---
 
-import Content from "uxp-documentation/src/pages/uxp/reference-js/index.md";
+# JavaScript Reference
 
-<Content query="product=xd"/>
+UXP provides a set of common APIs that are available in UXP-powered host applications, including Adobe Photoshop 2021. These are included in the global context and also as `require`-able modules.
+
+* [Global Members](global-members/index.md)
+* [Modules](modules/index.md)
