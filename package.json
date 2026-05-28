@@ -1,10 +1,10 @@
 {
-  "name": "dev-docs-template",
-  "version": "1.0.0",
+  "name": "uxp-xd",
+  "version": "0.0.11",
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/AdobeDocs/dev-docs-template"
+    "url": "https://github.com/AdobeDocs/uxp-xd"
   },
   "author": {
     "name": "Tim Kim",
@@ -12,6 +12,9 @@
   },
   "engines": {
     "node": "^24.11.0"
+  },
+  "dependencies": {
+    "uxp-documentation": "github:adobedocs/uxp#eds-migration-uxp-6.3"
   },
   "scripts": {
     "dev": "npx --yes --prefer-online github:AdobeDocs/adp-devsite-utils dev",
@@ -27,6 +30,13 @@
     "link:externalLinkOnly": "npx --yes --prefer-online github:AdobeDocs/adp-devsite-utils runLint --external-links-only -v",
     "link:checkAllLinks": "npx --yes --prefer-online github:AdobeDocs/adp-devsite-utils runLint --internal-links-only --external-links-only -v",
     "redirectCheck:stage": "npx --yes --prefer-online github:AdobeDocs/adp-devsite-utils redirectChecker stage --verbose",
-    "redirectCheck:prod": "npx --yes --prefer-online github:AdobeDocs/adp-devsite-utils redirectChecker prod --verbose"
+    "redirectCheck:prod": "npx --yes --prefer-online github:AdobeDocs/adp-devsite-utils redirectChecker prod --verbose",
+    "_copy-uxp-html": "rm -rf src/pages/uxp/reference-html && cp -r node_modules/uxp-documentation/src/pages/uxp/reference-html src/pages/uxp/",
+    "_copy-uxp-spectrum": "rm -rf src/pages/uxp/reference-spectrum && cp -r node_modules/uxp-documentation/src/pages/uxp/reference-spectrum src/pages/uxp/",
+    "_copy-uxp-js": "rm -rf src/pages/uxp/reference-js && cp -r node_modules/uxp-documentation/src/pages/uxp/reference-js src/pages/uxp/",
+    "_copy-uxp-css": "rm -rf src/pages/uxp/reference-css && cp -r node_modules/uxp-documentation/src/pages/uxp/reference-css src/pages/uxp/",
+    "_copy-uxp": "npm run _copy-uxp-js && npm run _copy-uxp-css && npm run _copy-uxp-html && npm run _copy-uxp-spectrum",
+    "_copy-uxp-misc-files": "cp node_modules/uxp-documentation/src/pages/uxp/*.md src/pages/uxp/",
+    "prepare-uxp": "npm run _copy-uxp && npm run _copy-uxp-misc-files"
   }
 }
