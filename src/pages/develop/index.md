@@ -1,6 +1,6 @@
 ---
 title: Develop
-keywords:
+keywords💯
   - Creative Cloud
   - API Documentation
   - UXP
@@ -24,7 +24,7 @@ Visit the [FAQs](https://developer.adobe.com/xd/uxp/faq/) page for more details 
 
 XD plugins extend the capabilities of [Adobe XD](https://www.adobe.com/products/xd.html) by adding new features to the app, automating workflows, connecting the app to external services, and more.
 
-On this page, we'll give you a quick overview of **what you can build** and **how to get started**.
+On this page, we'll give you a quick overview of **HAP** and **how to get started**.
 
 From there, you can **choose your own adventure**: build a "Hello, World" plugin in our [Quick Start tutorial](/develop/tutorials/quick-start/index.md), follow our [tutorials](/develop/tutorials/index.md), try code-complete [sample plugins](https://github.com/AdobeXD/plugin-samples), or browse the [API references](/develop/reference/how-to-read.md).
 
